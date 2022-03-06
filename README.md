@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **FullStack Developer**
 
-- 💬 Ask me about **| Javascript | React.js | Redux | Node.js | Express | PostgreSQL | Sequelize**
+- 💬 Ask me about **| Javascript | React.js | Redux | Node.js | Express | PostgreSQL | Sequelize | Jest**
 
 - 📫 How to reach me **lucastomascasco@gmail.com**
 
